@@ -1,6 +1,20 @@
-# 🕵️‍♀️ Greetings, Curious Mind! I am Maryam  🔍🤖 
+# 🕵️‍♀️ Greetings, Curious Mind! I am Maryam 🔍🤖 
 
 Ah, you've found your way here... Interesting. Are you here to decode something? Or perhaps, you're searching for **patterns** in the chaos? Either way, welcome to my digital lair. 🕶️💻  
+
+---
+
+## 🔒 **Enter the Secret Code:**  
+![Enter Password](https://via.placeholder.com/200x50?text=Enter+Password)
+
+<details>
+  <summary>Click Here</summary>
+
+  🎊 **Access Granted!**  
+   
+
+  🕵️‍♀️ **Did you expect more?** Maybe... there's another hidden clue somewhere. Keep looking! 🔍  
+</details> 
 
 ## 🔎 About Me  
 
