@@ -12,10 +12,6 @@ Ah, you've found your way here... Interesting. Are you here to decode something?
 
   🎊 **Access Granted!**  
    
-
-  🕵️‍♀️ **Did you expect more?** Maybe... there's another hidden clue somewhere. Keep looking! 🔍  
-</details> 
-
 ## 🔎 About Me  
 
 I am a **problem solver, code whisperer, and digital detective**. My world revolves around:  
@@ -24,8 +20,7 @@ I am a **problem solver, code whisperer, and digital detective**. My world revol
 - 📜 **Deciphering patterns** in code and data.  
 - 🔥 **Breaking & Fixing** systems to understand their core.  
 - 🤖 **Automating workflows** and optimizing performance.  
-
-## 🛠️ Technologies & Tools  
+  ## 🛠️ Technologies & Tools  
 
 Here are some of my trusted tools—each a weapon in my arsenal:  
 
@@ -49,4 +44,8 @@ Either way, feel free to **drop a message** or explore my repositories. Who know
 
 ### 🔐 End of Transmission...  
 
-Deciphered something interesting? Or did you just scratch the surface? The game is afoot. 🕵️‍♀️  
+Deciphered something interesting? Or did you just scratch the surface? The game is afoot. 🕵️‍♀️ 
+</details> 
+🕵️‍♀️ **Did you expect more?** Maybe... there's another hidden clue somewhere. Keep looking! 🔍
+
+ 
