@@ -3,10 +3,11 @@
 Ah, you've found your way here... Interesting. Are you here to decode something? Or perhaps, you're searching for **patterns** in the chaos? Either way, welcome to my digital lair. 🕶️💻  
 
 ---
-## Deciphering ![Loading GIF](https://i.postimg.cc/4yVPBXNL/Loading-Load-GIF-by-Cod3r-Curs-unscreen.gif)
 
 <details>
-  <summary>Click Here</summary>
+  <summary>
+    ## ![Loading GIF](https://i.postimg.cc/4yVPBXNL/Loading-Load-GIF-by-Cod3r-Curs-unscreen.gif)
+    Click Here</summary>
 
   🎊 **Access Granted!**  
    
