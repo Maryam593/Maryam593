@@ -3,10 +3,7 @@
 Ah, you've found your way here... Interesting. Are you here to decode something? Or perhaps, you're searching for **patterns** in the chaos? Either way, welcome to my digital lair. 🕶️💻  
 
 ---
-
-## 🔒 **Enter the Secret Code:**  
-![Enter Password](https://via.placeholder.com/200x50?text=Enter+Password)
-
+## Deciphering ......
 <details>
   <summary>Click Here</summary>
 
