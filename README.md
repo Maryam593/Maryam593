@@ -3,7 +3,7 @@
 Ah, you've found your way here... Interesting. Are you here to decode something? Or perhaps, you're searching for **patterns** in the chaos? Either way, welcome to my digital lair. 🕶️💻  
 
 ---
-## Deciphering ![Loading](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG4yYTlpeXhzZXVvbDRsMG5iNHFtaWppbXlna3kwa3M4dnV0djJvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnzP4cmBsiOrccg20V/giphy.gif)
+## Deciphering ![Loading](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2x1dzA5b3JyOXNmbDdrbGRjOHJpeHAyeWN4cjRiYjhqaTRwNWljeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ycfHiJV6WZnQDFjSWH/giphy.gif)
 
 <details>
   <summary>Click Here</summary>
