@@ -41,11 +41,15 @@ If data tells a story, here's mine:
 🔹 Or maybe... you're just here for **some good old-fashioned coding banter**?  
 
 Either way, feel free to **drop a message** or explore my repositories. Who knows? You might just stumble upon **something unexpected**. 😏  
-
-### 🔐 End of Transmission...  
-
-Deciphered something interesting? Or did you just scratch the surface? The game is afoot. 🕵️‍♀️ 
 </details> 
-🕵️‍♀️ **Did you expect more?** Maybe... there's another hidden clue somewhere. Keep looking! 🔍
+
+## Did you expect more? Maybe... there's another hidden clue somewhere. Keep looking! 🔍
+
+<details>
+ <summary>Another Clue</summary>
+  
+  ### 🔐 End of Transmission...  
+  Deciphered something interesting? Or did you just scratch the surface? The game is afoot. 🕵️‍♀️ 
+</details>
 
  
