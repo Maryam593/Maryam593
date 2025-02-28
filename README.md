@@ -6,7 +6,7 @@ Ah, you've found your way here... Interesting. Are you here to decode something?
 
 <details>
   <summary>
-    ## ![Loading GIF](https://i.postimg.cc/4yVPBXNL/Loading-Load-GIF-by-Cod3r-Curs-unscreen.gif)
+ ![Loading GIF](https://i.postimg.cc/4yVPBXNL/Loading-Load-GIF-by-Cod3r-Curs-unscreen.gif)
     Click Here</summary>
 
   🎊 **Access Granted!**  
