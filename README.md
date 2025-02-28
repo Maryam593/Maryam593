@@ -3,9 +3,9 @@
 Ah, you've found your way here... Interesting. Are you here to decode something? Or perhaps, you're searching for **patterns** in the chaos? Either way, welcome to my digital lair. 🕶️💻  
 
 ---
-## Deciphering <p align="center">
+## Deciphering <span align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG4yYTlpeXhzZXVvbDRsMG5iNHFtaWppbXlna3kwa3M4dnV0djJvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnzP4cmBsiOrccg20V/giphy.gif" alt="Loading Animation" width="200" height="200">
-</p>
+</span>
 
 <details>
   <summary>Click Here</summary>
