@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryam593&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Maryam593)](https://git.io/streak-stats&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maryam593&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=dark)
 
 ## HappyCoding
