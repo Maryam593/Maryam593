@@ -6,10 +6,10 @@ Either way, welcome to my **digital lair**. 🕶️💻
  ## About Me
 function evolve(maryam) {  
     let coreAlgorithm = generateNewAlgoEverySecond();  
-    while(true) {  
+    setInterval(() => {
         maryam.update(coreAlgorithm);  
         console.log("🚀 New version deployed!");  
-    }  
+    }, 1000);
 }  
 evolve(this);
 
