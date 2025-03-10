@@ -3,9 +3,7 @@
 Ah, you've found your way here... **Interesting.**  
 Are you here to **decode something?** Or perhaps, you're searching for **patterns in chaos?**  
 Either way, welcome to my **digital lair**. 🕶️💻  
-
-## **⚡ Evolution in Progress...**  
-
+ ## About Me
 function evolve(maryam) {  
     let coreAlgorithm = generateNewAlgoEverySecond();  
     while(true) {  
