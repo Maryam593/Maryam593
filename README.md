@@ -1,6 +1,19 @@
-# 🕵️‍♀️ Greetings, Curious Mind! I am Maryam 🔍🤖 
+# 🕵️‍♀️ Greetings, Curious Mind! I am Maryam 🔍🤖  
 
-Ah, you've found your way here... Interesting. Are you here to decode something? Or perhaps, you're searching for **patterns** in the chaos? Either way, welcome to my digital lair. 🕶️💻  
+Ah, you've found your way here... **Interesting.**  
+Are you here to **decode something?** Or perhaps, you're searching for **patterns in chaos?**  
+Either way, welcome to my **digital lair**. 🕶️💻  
+
+## **⚡ Evolution in Progress...**  
+
+function evolve(maryam) {  
+    let coreAlgorithm = generateNewAlgoEverySecond();  
+    while(true) {  
+        maryam.update(coreAlgorithm);  
+        console.log("🚀 New version deployed!");  
+    }  
+}  
+evolve(this);
 
 ---
 ## ![Loading GIF](https://i.postimg.cc/4yVPBXNL/Loading-Load-GIF-by-Cod3r-Curs-unscreen.gif)
