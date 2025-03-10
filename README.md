@@ -40,7 +40,7 @@ If data tells a story, here's mine:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryam593&show_icons=true&theme=dark)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Maryam593&theme=dark)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=dark)
 
 ## 🚀 Let's Connect  
 
