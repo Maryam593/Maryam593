@@ -3,6 +3,13 @@
 Ah, you've found your way here... **Interesting.**  
 Are you here to **decode something?** Or perhaps, you're searching for **patterns in chaos?**  
 Either way, welcome to my **digital lair**. 🕶️💻  
+> ⚠️ **Important:** Make sure to securely save your private key when adding it. 
+> If you lose it or disconnect from the server, you may not be able to reconnect without it.
+> It's recommended to store it in a secure password manager or local vault.
+
+The first step in the onboarding process is to set up your SSH keys. These keys
+are essential for establishing secure connections between dFlow and your
+servers.
  ## About Me
 function evolve(maryam) {  
     let coreAlgorithm = generateNewAlgoEverySecond();  
