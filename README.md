@@ -12,7 +12,7 @@ function evolve(maryam) {
     let coreAlgorithm = generateNewAlgoEverySecond();  
     setInterval(() => {
         maryam.update(coreAlgorithm);  
-        console.log("🚀 New version deployed!");  
+        console.log("New version deployed!");  
     }, 1000);
 }  
 evolve(this);
@@ -64,4 +64,4 @@ Either way, feel free to **drop a message** or explore my repositories. Who know
   Deciphered something interesting? Or did you just scratch the surface? The game is afoot. 🕵️‍♀️ 
 </details>
 
- 
+ Happy coding !
