@@ -59,15 +59,7 @@ Either way, feel free to **drop a message** or explore my repositories. Who know
 
 <details>
  <summary>Another Clue</summary>
-
-## 🏅 Badges and Certification
-
-<p align="left">
-  <a href="https://www.credly.com/badges/455c242d-9599-42f6-906a-7827fd4532b0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/bd687b0c-3959-4e06-b511-6623e32b8fdb/image.png" width="100" height="100" alt="Credly Badge" />
-  </a>
-</p>
-
+ 
   ### 🔐 End of Transmission...  
   Deciphered something interesting? Or did you just scratch the surface? The game is afoot. 🕵️‍♀️ 
 </details>
