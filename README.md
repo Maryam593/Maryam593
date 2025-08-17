@@ -45,7 +45,7 @@ If data tells a story, here's mine:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryam593&show_icons=true&theme=dark)  
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryam593&theme=dark" alt="GitHub Streak" /></a>
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=dark)
-[![Developer-Tales](https://img.shields.io/badge?logo=medium)](https://medium.com/@maryams91101)
+[![Developer Tales](https://img.shields.io/badge/Developer-Tales-green?logo=medium)](https://medium.com/@maryams91101)
 
 ## 🚀 Let's Connect  
 
