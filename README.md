@@ -51,6 +51,7 @@ If data tells a story, here's mine:
 🔹 Want to **collaborate** on something intriguing?   
 🔹 Need a **brainstorming partner** for your next big idea?  
 🔹 Or maybe... you're just here for **some good old-fashioned coding banter**?  
+🔹[![Developer-Tales](https://img.shields.io/badge/Read%20on-Medium-black?logo=medium)](https://medium.com/@maryams91101)
 
 Either way, feel free to **drop a message** or explore my repositories. Who knows? You might just stumble upon **something unexpected**. 😏  
 </details> 
