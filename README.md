@@ -45,13 +45,14 @@ If data tells a story, here's mine:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryam593&show_icons=true&theme=dark)  
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryam593&theme=dark" alt="GitHub Streak" /></a>
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=dark)
+[![Developer-Tales](https://img.shields.io/badge/Read%20on-Medium-black?logo=medium)](https://medium.com/@maryams91101)
 
 ## 🚀 Let's Connect  
 
 🔹 Want to **collaborate** on something intriguing?   
 🔹 Need a **brainstorming partner** for your next big idea?  
 🔹 Or maybe... you're just here for **some good old-fashioned coding banter**?  
-🔹[![Developer-Tales](https://img.shields.io/badge/Read%20on-Medium-black?logo=medium)](https://medium.com/@maryams91101)
+
 
 Either way, feel free to **drop a message** or explore my repositories. Who knows? You might just stumble upon **something unexpected**. 😏  
 </details> 
