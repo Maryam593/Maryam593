@@ -7,14 +7,12 @@ Either way, welcome to my **digital lair**. 🕶️💻
 The first step in the onboarding process is to set up your SSH keys. These keys
 are essential for establishing secure connections between dFlow and your
 servers.
-<p display="flex" justify-content="center">
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
   <a href="https://medium.com/@maryams91101">
     <img src="https://img.shields.io/badge/Developer-Tales-green?logo=medium" alt="Developer Tales" />
   </a>
-  <br>
   <img src="https://komarev.com/ghpvc/?username=Maryam593&color=blue" alt="Profile Views" />
-</p>
-
+</div>
 
  ## About Me
 function evolve(maryam) {  
