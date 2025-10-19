@@ -68,6 +68,9 @@ Either way, feel free to **drop a message** or explore my repositories. Who know
 
 <details>
  <summary>Another Clue</summary>
+  
+  [![Credly Skills](https://img.shields.io/badge/Credly-Verified_Skills-orange?logo=credly&logoColor=white)](https://www.credly.com/users/maryam-saba.cd423b37/skills)
+
 
   ### 🔐 End of Transmission...  
   Deciphered something interesting? Or did you just scratch the surface? The game is afoot. 🕵️‍♀️ 
