@@ -7,11 +7,17 @@ Either way, welcome to my **digital lair!!!!**. 🕶️💻
 The first step in the onboarding process is to set up your SSH keys. These keys
 are essential for establishing secure connections between dFlow and your
 servers!!!!!
+
 <p align="center">
   <a href="https://medium.com/@maryams91101">
     <img src="https://img.shields.io/badge/Developer-Tales-green?logo=medium" alt="Developer Tales" />
   </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Maryam593&color=blue" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.credly.com/users/maryam-saba.cd423b37/skills">
+    <img src="https://img.shields.io/badge/Credly-Verified_Skills-orange?logo=credly&logoColor=white" alt="Credly Verified Skills" />
+  </a>
 </p>
 
  ## About Me
@@ -68,9 +74,6 @@ Either way, feel free to **drop a message** or explore my repositories. Who know
 
 <details>
  <summary>Another Clue</summary>
-  
-  [![Credly Skills](https://img.shields.io/badge/Credly-Verified_Skills-orange?logo=credly&logoColor=white)](https://www.credly.com/users/maryam-saba.cd423b37/skills)
-
 
   ### 🔐 End of Transmission...  
   Deciphered something interesting? Or did you just scratch the surface? The game is afoot. 🕵️‍♀️ 
