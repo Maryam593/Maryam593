@@ -9,14 +9,18 @@ are essential for establishing secure connections between dFlow and your
 servers!!!!!
 
 <p align="center">
-  <a href="https://medium.com/@maryams91101">
+  <a href="https://medium.com/@maryams91101" target="_blank">
     <img src="https://img.shields.io/badge/Developer-Tales-green?logo=medium" alt="Developer Tales" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Maryam593&color=blue" alt="Profile Views" />
   &nbsp;
-  <a href="https://www.credly.com/users/maryam-saba.cd423b37/skills">
+  <a href="https://www.credly.com/users/maryam-saba.cd423b37/skills" target="_blank">
     <img src="https://img.shields.io/badge/Credly-Verified_Skills-orange?logo=credly&logoColor=white" alt="Credly Verified Skills" />
+  </a>
+  &nbsp;
+  <a href="https://developers.google.com/profile/u/109864420608285084723" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Developer_Profile-red?logo=google&logoColor=white" alt="Google Developer Profile" />
   </a>
 </p>
 
