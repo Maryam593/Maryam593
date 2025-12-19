@@ -1,4 +1,4 @@
-# 🕵️‍♀️ Greetings, Curious Mind!!!! I am Maryam!!! 🔍 
+# 🕵️‍♀️ Greetings, Curious Mind! I am Maryam! 🔍 
 
 Ah, you've found your way here... **Interesting...!!!!!**  
 Are you here to **decode something?** Or perhaps, you're searching for **patterns in chaos??**  
