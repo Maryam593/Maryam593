@@ -95,6 +95,7 @@ Here are some of my trusted tools—each a weapon in my arsenal:
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 
 <!-- AUTOMATION / BACKEND / AI -->
 
