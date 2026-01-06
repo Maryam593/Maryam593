@@ -139,9 +139,6 @@ Either way, feel free to **drop a message** or explore my repositories. Who know
 
   ### 🔐 End of Transmission...  
   Deciphered something interesting? Or did you just scratch the surface? The game is afoot. 🕵️‍♀️ 
-  and by the way i am officially tracking my footprints : 
-  ![Languages](https://wakatime.com/share/@Maryam593/abcdef123456.svg)
-  ![Projects](https://wakatime.com/share/@Maryam593/ghijkl7891011.svg)
 
 </details>
 
