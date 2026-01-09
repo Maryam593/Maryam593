@@ -1,12 +1,12 @@
 # 🕵️‍♀️ Greetings, Curious Mind!!! I am Maryam!!!!🔍 
 
-Ah, you've found your way here!!!... **Interesting...!!!**  
+Ah, you've found your way here!!... **Interesting...!!**  
 Are you here to **decode something?** Or perhaps, you're searching for **patterns in chaos??**  
-Either way, welcome to my **digital lair!!!!!**. 🕶️💻  
+Either way, welcome to my **digital lair!!!**. 🕶️💻  
 
 The first step in the onboarding process is to set up your SSH keys. These keys
 are essential for establishing secure connections between dFlow and your
-servers!!!!!
+servers!!
 
 <p align="center">
   <a href="https://medium.com/@maryams91101" target="_blank">
@@ -41,7 +41,7 @@ evolve(this);
 
   🎊 **Access Granted!!!**  
    
-## 🔎 About Me !!!!!  
+## 🔎 About Me !!
 
 I am a **problem solver, code whisperer, and digital detective**. My world revolves around:  
 
@@ -113,7 +113,7 @@ Here are some of my trusted tools—each a weapon in my arsenal:
 
 
 
-## 🕶️ The Stats Don't Lie!!!!  
+## 🕶️ The Stats Don't Lie!!
 
 If data tells a story, here's mine:  
 
@@ -122,7 +122,7 @@ If data tells a story, here's mine:
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=dark)
 
 
-## 🚀 Let's Connect!!!!  
+## 🚀 Let's Connect!!
 
 🔹 Want to **collaborate** on something intriguing?   
 🔹 Need a **brainstorming partner** for your next big idea?  
