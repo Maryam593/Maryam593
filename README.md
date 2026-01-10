@@ -49,7 +49,7 @@ I am a **problem solver, code whisperer, and digital detective**. My world revol
 - 📜 **Deciphering patterns** in code and data.  
 - 🔥 **Breaking & Fixing** systems to understand their core.  
 - 🤖 **Automating workflows** and optimizing performance.  
-  ## 🛠️ Technologies & Tools  
+  ## 🛠️ Technologies & Tools!!!
 
 Here are some of my trusted tools—each a weapon in my arsenal:  
 
