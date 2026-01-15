@@ -113,7 +113,7 @@ Here are some of my trusted tools—each a weapon in my arsenal:
 
 
 
-## 🕶️ The Stats Don't Lie!!!!
+## 🕶️ The Stats Don't Lie !!!!
 
 If data tells a story, here's mine:  
 
@@ -122,7 +122,7 @@ If data tells a story, here's mine:
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=dark)
 
 
-## 🚀 Let's Connect !!
+## 🚀 Let's Connect !!!
 
 🔹 Want to **collaborate** on something intriguing?   
 🔹 Need a **brainstorming partner** for your next big idea?  
