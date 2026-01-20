@@ -118,7 +118,8 @@ Here are some of my trusted tools—each a weapon in my arsenal:
 If data tells a story, here's mine:  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryam593&show_icons=true&theme=dark)  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryam593&theme=dark" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryam593&theme=dark" alt="GitHub Streak" /></a> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Maryam593)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=dark)
 
 
