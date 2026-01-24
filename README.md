@@ -1,7 +1,7 @@
 # 🕵️‍♀️ Greetings, Curious Mind!!! I am Maryam!!!🔍 
 
 Ah, you've found your way here !!!!... **Interesting... !!!**  
-Are you here to **decode something?** Or perhaps, you're searching for **patterns in chaos??**  
+Are you here to **decode something?!!** Or perhaps, you're searching for **patterns in chaos??**  
 Either way, welcome to my **digital lair!!!!**. 🕶️💻  
 
 The first step in the onboarding process is to set up your SSH keys. These keys
