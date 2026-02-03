@@ -6,7 +6,7 @@ Either way, welcome to my **digital lair!!!!**. 🕶️💻
 
 The first step in the onboarding process is to set up your SSH keys. These keys
 are essential for establishing secure connections between dFlow and your
-servers !!!!
+servers !!!
 
 <p align="center">
   <a href="https://medium.com/@maryams91101" target="_blank">
@@ -39,7 +39,7 @@ evolve(this);
 <details>
   <summary>Click Here</summary>
 
-  🎊 **Access Granted !!!**  
+  🎊 **Access Granted !!**  
    
 ## 🔎 About Me !!!!
 
