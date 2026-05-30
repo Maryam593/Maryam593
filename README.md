@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:6d28d9&height=200&section=header&text=Maryam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=code%20whisperer%20%E2%80%A2%20digital%20detective%20%E2%80%A2%20full%20stack&descAlignY=56&descAlign=50&descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C8621A,50:A0520F,100:4AADA8&height=200&section=header&text=Maryam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=code%20whisperer%20%E2%80%A2%20digital%20detective%20%E2%80%A2%20full%20stack&descAlignY=56&descAlign=50&descColor=FDE68A"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=560&lines=i+build+things+that+watch+back+%F0%9F%91%81%EF%B8%8F;full+stack+%7C+mobile+%7C+whatever+it+takes;open+to+collabs+%F0%9F%A4%9D;making+foodpanda+scared+since+2026+%F0%9F%94%92;def+me%3A+return+%22always_shipping%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=C8621A&center=true&vCenter=true&random=false&width=560&lines=i+build+things+that+watch+back+%F0%9F%91%81%EF%B8%8F;full+stack+%7C+mobile+%7C+whatever+it+takes;open+to+collabs+%F0%9F%A4%9D;making+foodpanda+scared+since+2026+%F0%9F%94%92;def+me%3A+return+%22always_shipping%22)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Maryam593&color=7c3aed&style=flat-square&label=profile+views"/>
+<img src="https://komarev.com/ghpvc/?username=Maryam593&color=C8621A&style=flat-square&label=profile+views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Maryam593?color=7c3aed&style=flat-square&label=followers"/>
+<img src="https://img.shields.io/github/followers/Maryam593?color=C8621A&style=flat-square&label=followers"/>
 
 </div>
 
@@ -29,9 +29,9 @@
 
 ## 🔥 latest drop
 
-[![Junkie](https://img.shields.io/badge/Junkie-v1.0-7c3aed?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Maryam593/Junkieee)
+[![Junkie](https://img.shields.io/badge/Junkie-v1.0-C8621A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Maryam593/Junkieee)
 &nbsp;
-[![Download APK](https://img.shields.io/badge/Download_APK-C8F135?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Maryam593/Junkieee/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download_APK-4AADA8?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Maryam593/Junkieee/releases/latest)
 
 **[Junkieee](https://github.com/Maryam593/Junkieee)** — silent Android accessibility service that monitors your FoodPanda spending and enforces your budget. J is always watching. 👁️
 
@@ -88,15 +88,15 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Maryam593&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Maryam593&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&title_color=C8621A&icon_color=4AADA8"/>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&title_color=C8621A"/>
 
 </div>
 
 <div align="center">
 
-[![streak](https://streak-stats.demolab.com/?user=Maryam593&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+[![streak](https://streak-stats.demolab.com/?user=Maryam593&theme=tokyonight&hide_border=true&border_radius=12&ring=C8621A&fire=C8621A&currStreakLabel=4AADA8)](https://git.io/streak-stats)
 
 </div>
 
@@ -120,6 +120,6 @@
 
 *the game is afoot 🕵️‍♀️*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:7c3aed&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4AADA8,50:A0520F,100:C8621A&height=120&section=footer"/>
 
 </div>
