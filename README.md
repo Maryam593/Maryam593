@@ -1,122 +1,146 @@
-<div align="center">
+# 🕵️‍♀️ Greetings, Curious Mind!! I am Maryam!!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A460,50:FBBF80,100:5EEAD4&height=200&section=header&text=Maryam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=code%20whisperer%20%E2%80%A2%20digital%20detective%20%E2%80%A2%20full%20stack&descAlignY=56&descAlign=50&descColor=fff8f0"/>
+Ah, you've found your way here !!... **Interesting... !!**  
+Are you here to **decode something??!!!** Or perhaps, you're searching for **patterns in chaos??**  
+Either way, welcome to my **digital lair!!**  
 
-<br/>
+The first step in the onboarding process is to set up your SSH keys. These keys
+are essential for establishing secure connections between dFlow and your
+servers !!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=F4A460&center=true&vCenter=true&random=false&width=560&lines=i+build+things+that+watch+back+👁️;full+stack+%7C+mobile+%7C+whatever+it+takes;open+to+collabs+🤝;making+foodpanda+scared+since+2026+🔒;def+me%3A+return+%22always_shipping%22)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://medium.com/@maryams91101" target="_blank">
+    <img src="https://img.shields.io/badge/Developer-Tales-green?logo=medium" alt="Developer Tales" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Maryam593&color=blue" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.credly.com/users/maryam-saba.cd423b37/skills" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Verified_Skills-orange?logo=credly&logoColor=white" alt="Credly Verified Skills" />
+  </a>
+  &nbsp;
+  <a href="https://developers.google.com/profile/u/109864420608285084723" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Developer_Profile-red?logo=google&logoColor=white" alt="Google Developer Profile" />
+  </a>
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Maryam593&color=F4A460&style=flat-square&label=profile+views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Maryam593?color=F4A460&style=flat-square&label=followers"/>
-
-</div>
-
----
-
-## 🕵️ who am i
-
-```bash
-> whoami
-  → full stack dev & pattern hunter
-  → i build systems that are chaotic but intentional
-  → breaking things is just debugging in advance
-```
-
----
-
-## 🔥 latest drop
-
-[![Junkie](https://img.shields.io/badge/Junkie-v1.0-F4A460?style=for-the-badge&logo=android&logoColor=fff8f0)](https://github.com/Maryam593/Junkieee)
-&nbsp;
-[![Download APK](https://img.shields.io/badge/Download_APK-FED7AA?style=for-the-badge&logo=android&logoColor=7C2D12)](https://github.com/Maryam593/Junkieee/releases/latest)
-
-**[Junkieee](https://github.com/Maryam593/Junkieee)** — silent Android accessibility service that monitors your FoodPanda spending and enforces your budget. J is always watching. 👁️
-
-`Kotlin` · `Android Accessibility Service` · `WindowManager Overlay` · `Material Design 3`
+ ## About Me
+function evolve(maryam) {  
+    let coreAlgorithm = generateNewAlgoEverySecond();  
+    setInterval(() => {
+        maryam.update(coreAlgorithm);  
+        console.log("New version deployed!");  
+    }, 1000);
+}  
+evolve(this);
 
 ---
+## ![Loading GIF](https://i.postimg.cc/4yVPBXNL/Loading-Load-GIF-by-Cod3r-Curs-unscreen.gif)
+<details>
+  <summary>Click Here</summary>
 
-## 🛠 stack
+  🎊 **Access Granted !!**  
+   
+## 🔎 About Me !!!!
 
-**frontend**
+I am a **problem solver, code whisperer, and digital detective**. My world revolves around:  
 
-![HTML5](https://img.shields.io/badge/HTML5-FED7AA?style=for-the-badge&logo=html5&logoColor=7C2D12)
-![CSS3](https://img.shields.io/badge/CSS3-FED7AA?style=for-the-badge&logo=css3&logoColor=7C2D12)
-![JavaScript](https://img.shields.io/badge/JavaScript-FED7AA?style=for-the-badge&logo=javascript&logoColor=7C2D12)
-![TypeScript](https://img.shields.io/badge/TypeScript-FED7AA?style=for-the-badge&logo=typescript&logoColor=7C2D12)
-![React](https://img.shields.io/badge/React-FED7AA?style=for-the-badge&logo=react&logoColor=7C2D12)
-![Next.js](https://img.shields.io/badge/Next.js-FED7AA?style=for-the-badge&logo=nextdotjs&logoColor=7C2D12)
-![Angular](https://img.shields.io/badge/Angular-FED7AA?style=for-the-badge&logo=angular&logoColor=7C2D12)
-![Redux](https://img.shields.io/badge/Redux-FED7AA?style=for-the-badge&logo=redux&logoColor=7C2D12)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-FED7AA?style=for-the-badge&logo=tailwind-css&logoColor=7C2D12)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FED7AA?style=for-the-badge&logo=bootstrap&logoColor=7C2D12)
-![Sass](https://img.shields.io/badge/Sass-FED7AA?style=for-the-badge&logo=sass&logoColor=7C2D12)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-FED7AA?style=for-the-badge&logo=react&logoColor=7C2D12)
+- 🛠️ **Building things from scratch** and making them efficient.  
+- 📜 **Deciphering patterns** in code and data.  
+- 🔥 **Breaking & Fixing** systems to understand their core.  
+- 🤖 **Automating workflows** and optimizing performance.  
+  ## 🛠️ Technologies & Tools!!!
 
-**backend**
+Here are some of my trusted tools—each a weapon in my arsenal:  
 
-![Node.js](https://img.shields.io/badge/Node.js-FED7AA?style=for-the-badge&logo=node.js&logoColor=7C2D12)
-![Express.js](https://img.shields.io/badge/Express.js-FED7AA?style=for-the-badge&logo=express&logoColor=7C2D12)
-![Python](https://img.shields.io/badge/Python-FED7AA?style=for-the-badge&logo=python&logoColor=7C2D12)
-![FastAPI](https://img.shields.io/badge/FastAPI-FED7AA?style=for-the-badge&logo=fastapi&logoColor=7C2D12)
+<p align="left">
 
-**database**
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-FED7AA?style=for-the-badge&logo=mongodb&logoColor=7C2D12)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FED7AA?style=for-the-badge&logo=postgresql&logoColor=7C2D12)
-![Supabase](https://img.shields.io/badge/Supabase-FED7AA?style=for-the-badge&logo=supabase&logoColor=7C2D12)
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-**mobile**
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-FED7AA?style=for-the-badge&logo=androidstudio&logoColor=7C2D12)
-![Kotlin](https://img.shields.io/badge/Kotlin-FED7AA?style=for-the-badge&logo=kotlin&logoColor=7C2D12)
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-**tools & other**
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"/>
 
-![Git](https://img.shields.io/badge/Git-FED7AA?style=for-the-badge&logo=git&logoColor=7C2D12)
-![Postman](https://img.shields.io/badge/Postman-FED7AA?style=for-the-badge&logo=postman&logoColor=7C2D12)
-![n8n](https://img.shields.io/badge/n8n-FED7AA?style=for-the-badge&logo=n8n&logoColor=7C2D12)
-![C](https://img.shields.io/badge/C-FED7AA?style=for-the-badge&logo=c&logoColor=7C2D12)
-![C++](https://img.shields.io/badge/C%2B%2B-FED7AA?style=for-the-badge&logo=cplusplus&logoColor=7C2D12)
-![MCP](https://img.shields.io/badge/MCP-FED7AA?style=for-the-badge&logoColor=7C2D12)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-## 📊 stats
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Maryam593&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&title_color=F4A460&icon_color=5EEAD4"/>
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&title_color=F4A460"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-[![streak](https://streak-stats.demolab.com/?user=Maryam593&theme=tokyonight&hide_border=true&border_radius=12&ring=F4A460&fire=F4A460&currStreakLabel=5EEAD4)](https://git.io/streak-stats)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
----
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 
-## 🔗 find me
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maryams91101)
-&nbsp;
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/maryam-saba.cd423b37/skills)
-&nbsp;
-[![Google Dev](https://img.shields.io/badge/Google_Dev-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/109864420608285084723)
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 
-<div align="center">
-no thoughts, just shipping 🚀
-</div>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+
+<!-- AUTOMATION / BACKEND / AI -->
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-4B5563?style=for-the-badge&logo=ai&logoColor=white"/>
+
+</p>
+
+
+
+## 🕶️ The Stats Don't Lie !!!!
+
+If data tells a story, here's mine:  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryam593&show_icons=true&theme=dark)  
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maryam593&theme=dark" alt="GitHub Streak" /></a> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Maryam593)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maryam593&layout=compact&theme=dark)
+
+
+## 🚀 Let's Connect !!!
+
+🔹 Want to **collaborate** on something intriguing?   
+🔹 Need a **brainstorming partner** for your next big idea?  
+🔹 Or maybe... you're just here for **some good old-fashioned coding banter**?  
+
+
+Either way, feel free to **drop a message** or explore my repositories. Who knows? You might just stumble upon **something unexpected**. 😏  
+</details> 
+
+## Did you expect more? Maybe... there's another hidden clue somewhere. Keep looking!!!! 🔍
+
+<details>
+ <summary>Another Clue</summary>
+
+  ### 🔐 End of Transmission...  
+  Deciphered something interesting? Or did you just scratch the surface? The game is afoot. 🕵️‍♀️ 
+
+</details>
+
+ Happy coding !
